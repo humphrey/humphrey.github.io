@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humphrey&#39;s Github Page</title>
+    <link>https://humphrey.github.io/</link>
+    <description>Recent content on Humphrey&#39;s Github Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <atom:link href="https://humphrey.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
